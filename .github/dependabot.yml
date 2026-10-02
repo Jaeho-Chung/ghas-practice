@@ -1,6 +1,6 @@
 version: 2
 updates:
   - package-ecosystem: "npm"
-    directory: "/wrong-folder"
+    directory: "/"
     schedule:
       interval: "weekly"
